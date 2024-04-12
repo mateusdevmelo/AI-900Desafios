@@ -1,0 +1,20 @@
+{
+  "input_data": {
+    "data": [
+       {
+         "day": 2,
+         "mnth": 1,   
+         "year": 2023,
+         "season": 1,
+         "holiday": 0,
+         "weekday": 3,
+         "workingday": 1,
+         "weathersit": 2, 
+         "temp": 0.2, 
+         "atemp": 0.2,
+         "hum": 0.2,
+         "windspeed": 0.2 
+       }
+     ]
+  }
+}
